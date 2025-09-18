@@ -1,0 +1,5 @@
+x=int(input("enter your number:"))
+g=int(input("enter your number:"))
+f=int(input("enter your number:"))
+largest_number=max(x,g,f)
+print("largest of your numbers is:",largest_number)
