@@ -1,0 +1,4 @@
+a=1
+while a<5:
+    print("vaiue:",a)
+    a+=1
